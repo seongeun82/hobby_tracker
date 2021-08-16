@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hobby_tracker/static/css/main.ce91239b.chunk.css",
-    "main.js": "/hobby_tracker/static/js/main.e632ade1.chunk.js",
-    "main.js.map": "/hobby_tracker/static/js/main.e632ade1.chunk.js.map",
-    "runtime-main.js": "/hobby_tracker/static/js/runtime-main.d82f86f7.js",
-    "runtime-main.js.map": "/hobby_tracker/static/js/runtime-main.d82f86f7.js.map",
-    "static/js/2.d8811612.chunk.js": "/hobby_tracker/static/js/2.d8811612.chunk.js",
-    "static/js/2.d8811612.chunk.js.map": "/hobby_tracker/static/js/2.d8811612.chunk.js.map",
-    "index.html": "/hobby_tracker/index.html",
-    "static/css/main.ce91239b.chunk.css.map": "/hobby_tracker/static/css/main.ce91239b.chunk.css.map",
-    "static/js/2.d8811612.chunk.js.LICENSE.txt": "/hobby_tracker/static/js/2.d8811612.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.ce91239b.chunk.css",
+    "main.js": "/static/js/main.e632ade1.chunk.js",
+    "main.js.map": "/static/js/main.e632ade1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.646feff7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.646feff7.js.map",
+    "static/js/2.d8811612.chunk.js": "/static/js/2.d8811612.chunk.js",
+    "static/js/2.d8811612.chunk.js.map": "/static/js/2.d8811612.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ce91239b.chunk.css.map": "/static/css/main.ce91239b.chunk.css.map",
+    "static/js/2.d8811612.chunk.js.LICENSE.txt": "/static/js/2.d8811612.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d82f86f7.js",
+    "static/js/runtime-main.646feff7.js",
     "static/js/2.d8811612.chunk.js",
     "static/css/main.ce91239b.chunk.css",
     "static/js/main.e632ade1.chunk.js"
